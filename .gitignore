@@ -2,6 +2,6 @@
 .env
 .venv
 
-.txt
+requeriments.txt
 
 .gitignore
